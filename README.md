@@ -1,2 +1,2 @@
-# DoctorMgmt
-Test Repo for DoctorMgmt project
+# SampleWebApp
+Test SampleWebApp developed using maven to perform AutoDeployment on Tomcat
